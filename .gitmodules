@@ -1,0 +1,3 @@
+[submodule "CppNumpyInterface"]
+	path = third_party/CppNumpyInterface
+	url = https://github.com/tumpji/CppNumpyInterface.git
